@@ -1,0 +1,27 @@
+.main, body, html{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+}
+
+.qq{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: GRAY  ;
+    height: 400px;
+    width: 400px;
+    color: white;
+    font-size: 20pt;
+    font-family: Calibri;
+}
+
+.qq:hover{
+    cursor: pointer;
+}
+
+.ww{
+    display: none;
+}
